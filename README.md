@@ -11,8 +11,15 @@ Cloud Firestore (Database),
 React Router (Navigation),
 PropTypes (Type checking),
 CSS3 (Styling)
+![236525713-8500e4d9-2388-451b-a2c6-b410c2b7faa5](https://github.com/dancolion1/netflliix-clone/assets/101347439/8e9c8bca-dad7-488b-9483-411c92c1e9ee)
+
+![236525704-a7c2da56-98e3-40cf-ab2d-45b5413c30f2](https://github.com/dancolion1/netflliix-clone/assets/101347439/8db762f2-de90-45a5-abd3-4dc138be0a61)
+![236525716-59fa96e2-415e-4c38-8cb3-54b4333751d2](https://github.com/dancolion1/netflliix-clone/assets/101347439/ab49b8b0-2a49-4ab8-87dd-41bcd89bf2a7)
+![236620272-eddc2ee2-9bf5-4645-914a-ab77b420036a](https://github.com/dancolion1/netflliix-clone/assets/101347439/87515d00-cdd1-43a2-8ea5-b3c2737299b5)
 
 Features
+![236525717-e27ce092-ef92-414f-9f08-f0b95b42d04a](https://github.com/dancolion1/netflliix-clone/assets/101347439/119c74f5-1449-4e99-a82c-b7eb6c65e01c)
+
 This project includes the following features:
 
 User authentication and registration using Firebase Authentication.
@@ -24,7 +31,7 @@ React Router for navigation.
 PropTypes for type checking.
 
 Installation and Usage
-Clone the repository to your local machine using git clone https://github.com/Yogeshmalik/netflix-full-clone.git
+Clone the repository to your local machine using git clone https://github.com/dancolion1/netfllix-clone.git
 Navigate to the project directory using cd netflix-full-clone
 Install the dependencies using npm install
 Start the application using npm start
